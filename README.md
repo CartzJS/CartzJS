@@ -11,7 +11,6 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/CartzJS/CartzJS/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
